@@ -1,2 +1,2 @@
-# MAIL-AND-PASSWORD-GENERATOR
+PASSWORD-GENERATOR
 This python program will provide you a complex password.
